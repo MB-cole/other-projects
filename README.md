@@ -4,4 +4,4 @@ This way, I don't need to look up basic things...something that I feel weakens m
 
 Feel free to explore! If you notice anything that could be improved, I’d greatly appreciate your feedback.
 
-# note upload date/order does not reflect when a project was started
+-note upload date/order does not reflect when a project was started
